@@ -1,3 +1,7 @@
 This is sample file 1
 
+
 Merge practice 1
+=======
+THis is comparion lecture
+
