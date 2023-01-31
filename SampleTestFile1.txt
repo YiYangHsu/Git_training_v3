@@ -5,3 +5,4 @@ Merge practice 1
 =======
 THis is comparion lecture
 
+This is Stash leacture, Change in File 1
